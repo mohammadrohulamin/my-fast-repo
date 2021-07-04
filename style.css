@@ -41,7 +41,7 @@ h1{
     margin-left: 2%;
     margin-right: 2%;
     border-left: 7px solid;
-    border-image: linear-gradient(red, green );
+    border-image: linear-gradient(red, green);
     border-image-slice: 1;
 }
 .title-color2{
