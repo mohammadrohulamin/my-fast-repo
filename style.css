@@ -40,7 +40,9 @@ h1{
     box-shadow: 20px 20px 40px grey;
     margin-left: 2%;
     margin-right: 2%;
-    border-left: 10px solid dimgray ;
+    border-left: 7px solid;
+    border-image: linear-gradient(red, green );
+    border-image-slice: 1;
 }
 .title-color2{
     color: blue;
