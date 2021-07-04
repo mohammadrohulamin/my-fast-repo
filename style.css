@@ -9,6 +9,12 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.sectionss{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .haf-width{
     width: 50%;
     padding: 5%;
@@ -18,4 +24,30 @@ h1{
 }
 .title-color{
     color: green;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( orange, tomato); 
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.sections2{
+    display: flex;
+}
+#haf-width{
+    box-shadow: 20px 20px 40px grey;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-left: 10px solid dimgray ;
+}
+.title-color2{
+    color: blue;
+
+}
+.footer-section{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
 }
