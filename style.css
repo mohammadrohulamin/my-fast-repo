@@ -36,6 +36,9 @@ h1{
 .sections2{
     display: flex;
 }
+#obiggota{
+    padding: 40px;
+}
 #haf-width{
     box-shadow: 20px 20px 40px grey;
     margin-left: 2%;
